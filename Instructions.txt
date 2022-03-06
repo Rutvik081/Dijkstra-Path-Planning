@@ -1,0 +1,5 @@
+Instructions to run the code:
+
+1. Run the Dijkstra-pathplanning-Rutvik-Kevadiya.py file.
+2. Enter the initial and goal position coordinates.
+3. After the visualization ends and the final path is displayed press any key to close the visualization.
